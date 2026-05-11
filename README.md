@@ -40,6 +40,26 @@ Amazon S3 Bucket
 - HTML
 - CSS
 
+## Screenshots
+### 🟦 1. Application Home Page
+This is the main web interface where users can select and upload files from their local system.
+
+![Webpage]([screenshots/webpage.png](https://github.com/IndiraV5/cloud-file-upload-app/blob/main/screenshots/webpage.png))
+
+### 🟩 2. File Upload Success
+After selecting a file and clicking upload, the system confirms that the upload was successful.
+
+![Upload Success]([screenshots/uploaded.png](https://github.com/IndiraV5/cloud-file-upload-app/blob/main/screenshots/uploaded.png))
+
+### 🟨 3. Amazon S3 Bucket Overview
+This screenshot shows the S3 bucket where uploaded files are stored securely in AWS cloud storage.
+
+![S3 Bucket]([screenshots/s3.png](https://github.com/IndiraV5/cloud-file-upload-app/blob/main/screenshots/s3.png))
+
+### 🟧 4. File Stored Inside S3 Bucket
+This confirms that the uploaded file is successfully saved inside the S3 bucket.
+![File in S3]([screenshots/inside-s3-bucket.png](https://github.com/IndiraV5/cloud-file-upload-app/blob/main/screenshots/inside%20S3%20bucket.png))
+
 ## Setup Instructions
 
 ### 1. Clone Repository
@@ -78,5 +98,4 @@ sudo node server.js
 - Git and GitHub workflow
 - Linux server management
 
-- 
 
