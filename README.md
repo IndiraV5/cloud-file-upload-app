@@ -45,7 +45,7 @@ Amazon S3 Bucket
 ### 1. Clone Repository
 
 ```bash
-git clone YOUR_REPO_LINK
+git clone https://github.com/IndiraV5/cloud-file-upload-app.git
 ```
 
 ### 2. Install Dependencies
@@ -68,5 +68,15 @@ REGION=ap-south-1
 ```bash
 sudo node server.js
 ```
+## What I Learned
 
+- AWS EC2 deployment
+- Amazon S3 storage integration
+- IAM permission management
+- Node.js backend deployment
+- File upload handling
+- Git and GitHub workflow
+- Linux server management
+
+- 
 
